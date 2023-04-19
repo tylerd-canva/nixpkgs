@@ -5472,6 +5472,8 @@ with self; {
     };
   };
 
+  debhelper = callPackage ../development/tools/debhelper { };
+
   DataClone = buildPerlPackage {
     pname = "Data-Clone";
     version = "0.004";

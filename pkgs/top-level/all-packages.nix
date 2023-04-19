@@ -511,6 +511,8 @@ with pkgs;
 
   deadnix = callPackage ../development/tools/deadnix { };
 
+  debhelper = perlPackages.debhelper; 
+
   dec-decode = callPackage ../development/tools/dec-decode { };
 
   dsq = callPackage ../tools/misc/dsq { };
