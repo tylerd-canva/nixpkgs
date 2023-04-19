@@ -15905,6 +15905,12 @@
     github = "twitchyliquid64";
     githubId = 6328589;
   };
+  tylerd-canva = {
+    email = "tylerd@canva.com";
+    github = "tylerd-canva";
+    githubId = 89815832;
+    name = "Tyler Davis";
+  };
   tylerjl = {
     email = "tyler+nixpkgs@langlois.to";
     github = "tylerjl";
